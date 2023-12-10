@@ -1,16 +1,16 @@
 ---
 home: true
 icon: home
-title: Project home
-heroImage: /logo.svg
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+title: 工作、学习日常记录
+# heroImage: /logo.svg
+bgImage: /abstract-timekeeper.svg
+bgImageDark: /abstract-timekeeper.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: Project name
-tagline: You can place the description of the project here.
+heroText: 好记性不如烂笔头
+tagline: 故不积跬步，无以至千里；不积小流，无以成江海。骐骥一跃，不能十步；驽马十驾，功在不舍。锲而舍之，朽木不折；锲而不舍，金石可镂。蚓无爪牙之利，筋骨之强，上食埃土，下饮黄泉，用心一也。蟹六跪而二螯，非蛇鳝之穴无可寄托者，用心躁也。
 actions:
-  - text: How to Use
+  - text: 实验田
     icon: lightbulb
     link: ./demo/
     type: primary
@@ -19,14 +19,6 @@ actions:
     link: ./guide/
 
 highlights:
-  - header: Easy to install
-    image: /assets/image/box.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
-    highlights:
-      - title: Run <code>pnpm create vuepress-theme-hope hope-project</code> to create a new project with this theme.
-      - title: Run <code>pnpm create vuepress-theme-hope add .</code> in your project root to create a new project with this theme.
-
   - header: Add things you want in markdown
     description: We extended the standard commonMark specification and added tons of new features for you.
     image: /assets/image/markdown.svg
@@ -146,37 +138,6 @@ highlights:
         details: Insert presentation in Markdown files via Reveal.js
         link: https://theme-hope.vuejs.press/guide/markdown/revealjs/
 
-  - header: Improved layouts
-    description: An awesome responsive layout with full a11y support.
-    image: /assets/image/layout.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: Layout
-        icon: object-group
-        details: Improved navbar, sidebar, page nav and new breadcrumb, footer and toc. We also bring you a brand new homepage.
-        link: https://theme-hope.vuejs.press/guide/layout/
-
-      - title: Dark Mode
-        icon: circle-half-stroke
-        details: Switch between light and dark modes freely
-        link: https://theme-hope.vuejs.press/guide/interface/darkmode.html
-
-      - title: Customizable Theme Color
-        icon: palette
-        details: Customize theme color
-        link: https://theme-hope.vuejs.press/guide/interface/theme-color.html
-
-      - title: Slide Page
-        icon: person-chalkboard
-        details: Adding slide pages to display things you like
-        link: https://theme-hope.vuejs.press/guide/layout/slides
-
-      - title: More
-        icon: ellipsis
-        details: RTL layout, print support, fullscreen button, etc.
-        link: https://theme-hope.vuejs.press/guide/interface/others.html
-
   - header: New features
     image: /assets/image/features.svg
     bgImage: https://theme-hope-assets.vuejs.press/bg/1-light.svg
@@ -212,64 +173,6 @@ highlights:
         details: Support viewing, zooming, sharing your page images like a gallery
         link: https://theme-hope.vuejs.press/guide/feature/photo-swipe.html
 
-  - header: Blogging
-    description: Create personal blog with theme
-    image: /assets/image/blog.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/5-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/5-dark.svg
-    highlights:
-      - title: Blog features
-        icon: blog
-        details: Listing your articles with their dates, tags and categories
-        link: https://theme-hope.vuejs.press/guide/blog/intro.html
-
-      - title: Blog homepage
-        icon: blog
-        details: New blog homepage
-        link: https://theme-hope.vuejs.press/guide/blog/home.html
-
-      - title: Blogger info
-        icon: circle-info
-        details: Customize avatar, name, slogan, introduction and social links
-        link: https://theme-hope.vuejs.press/guide/blog/blogger.html
-
-      - title: Timeline
-        icon: clock
-        details: Read through blog posts in a timeline
-        link: https://theme-hope.vuejs.press/guide/blog/timeline.html
-
-  - header: Advanced
-    description: Advanced features to improve site SEO and user experience
-    image: /assets/image/advanced.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/4-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/4-dark.svg
-    highlights:
-      - title: SEO Enhancement
-        icon: dumbbell
-        details: Optimize pages for search engines
-        link: https://theme-hope.vuejs.press/guide/advanced/seo.html
-
-      - title: Sitemap
-        icon: sitemap
-        details: Generate a Sitemap for your site
-        link: https://theme-hope.vuejs.press/guide/advanced/sitemap.html
-
-      - title: Feed
-        icon: rss
-        details: Generate feed to allow users to subscribe it
-        link: https://theme-hope.vuejs.press/guide/advanced/feed.html
-
-      - title: PWA
-        icon: mobile-screen
-        details: Make your site more like an APP
-        link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
-
 copyright: false
 footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
 ---
-
-This is an example of a project homepage. You can place your main content here.
-
-To use this layout, you need to set `home: true` in the page front matter.
-
-For related descriptions of configuration items, please see [Project HomePage Layout Config](https://theme-hope.vuejs.press/guide/layout/home/).
