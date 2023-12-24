@@ -8,26 +8,22 @@ export default navbar([
   },
   {
     text: "C++",
-    icon: "lightbulb",
-    prefix: "/guide/",
-    children: [
-      {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "#" }],
-      },
-      {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "#" }],
-      },
-    ],
+    icon: "teenyicons:cplusplus-outline",
+    link: "/cplusplus/",
+  },
+  {
+    text: "Javascript",
+    icon: "teenyicons:javascript-outline",
+    link: "/javascript/",
+  },
+  {
+    text: "Python",
+    icon: "teenyicons:python-outline",
+    link: "/python/",
   },
   {
     text: "语雀",
-    icon: "book",
+    icon: "crow",
     link: "https://yuque.com/fengyfei",
   },
 ]);

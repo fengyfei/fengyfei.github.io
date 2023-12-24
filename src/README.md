@@ -12,11 +12,11 @@ tagline: 不积跬步，无以至千里<br />不积小流，无以成江海<br /
 actions:
   - text: 实验田
     icon: lightbulb
-    link: ./demo/
+    link: /cplusplus
     type: primary
 
   - text: Docs
-    link: ./guide/
+    link: /javascript
 
 highlights:
   - header: Add things you want in markdown
@@ -174,5 +174,5 @@ highlights:
         link: https://theme-hope.vuejs.press/guide/feature/photo-swipe.html
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+footer: Copyright © 2023 <a href='https://fengyfei.github.io'>fengyfei</a>
 ---
