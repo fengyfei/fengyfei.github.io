@@ -1,7 +1,11 @@
 ---
 title: C++ References
 icon: fluent-emoji:spider
+isOriginal: true
+banner: /assets/background/flat-wireframe.jpg
 ---
+
+![](/assets/background/flat-wireframe.jpg)
 
 ## Official
 - [C++ Tutorial](https://cplusplus.com/doc/tutorial/)
