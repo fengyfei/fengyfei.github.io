@@ -3,7 +3,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   {
     text: "首页",
-    icon: "house",
+    icon: "noto:house",
     link: "/",
   },
   {
@@ -23,7 +23,7 @@ export default navbar([
   },
   {
     text: "语雀",
-    icon: "crow",
+    icon: "ant-design:yuque-outlined",
     link: "https://yuque.com/fengyfei",
   },
 ]);
