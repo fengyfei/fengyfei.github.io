@@ -1,6 +1,6 @@
 ---
 title: Object
-icon: circle-info
+icon: noto-v1:direct-hit
 ---
 
 ```js

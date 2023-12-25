@@ -1,6 +1,6 @@
 ---
 title: Javascript 基础知识
-icon: arcticons:acorns
+icon: noto-v1:eagle
 ---
 
 ```js

@@ -9,7 +9,7 @@ export default sidebar({
       link: "cplusplus/",
       children: [
         {
-          text: "基础知识",
+          text: "新手入门",
           icon: "fluent-emoji:spider",
           prefix: "foundation/",
           link: "foundation/",
@@ -24,7 +24,7 @@ export default sidebar({
       link: "javascript/",
       children: [
         {
-          text: "基础知识",
+          text: "新手入门",
           icon: "emojione-monotone:monkey",
           prefix: "foundation/",
           link: "foundation/",
@@ -32,7 +32,7 @@ export default sidebar({
         },
         {
           text: "SDK",
-          icon: "arcticons:activitylauncher",
+          icon: "noto-v1:dagger",
           prefix: "sdk/",
           link: "sdk/",
           children: "structure",
@@ -46,7 +46,7 @@ export default sidebar({
       link: "python/",
       children: [
         {
-          text: "基础知识",
+          text: "新手入门",
           icon: "noto-v1:snake",
           prefix: "foundation/",
           link: "foundation/",
