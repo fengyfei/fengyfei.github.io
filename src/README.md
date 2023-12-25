@@ -18,57 +18,77 @@ actions:
     link: /javascript
 
 highlights:
-  - header: 开源探索
+  - header: 开源社区
     bgImage: /assets/background/close-up-sand-surface.jpg
     bgImageStyle:
       background-repeat: no-repeat
       background-size: 100% auto
     features:
-      - title: Github
-        icon: ant-design:github-filled
-        details: 开源信息汇总
-        link: /github
+      - title: 通用工具
+        icon: noto-v1:building-construction
+        details: API 工具、数据库工具、效率工具等
+        link: /github/genera.md
 
-      - title: Hint box
-        icon: box-archive
-        details: Decorate Markdown content with styles
-        link: https://theme-hope.vuejs.press/guide/markdown/hint.html
+      - title: Go 优秀类库
+        icon: devicon:go
+        details: Go 常用工具及优秀开源项目
+        link: /github/go.md
+      
+      - title: C++ 优秀项目
+        icon: openmoji:cplusplus
+        details: C++ 常用工具及优秀开源项目
+        link: /github/cplusplus.md
+      
+      - title: Python 优秀项目
+        icon: logos:python
+        details: Python 常用工具及优秀开源项目
+        link: /github/python.md
+      
+      - title: JS/TS 优秀项目
+        icon: openmoji:javascript
+        details: Javascript/Typescript 常用工具及优秀开源项目
+        link: /github/js.md
+      
+      - title: 在线工具
+        icon: noto-v1:crocodile
+        details: 线上实用工具汇总
+        link: /github/web.md
 
-  - header: New features
+  - header: 功能分区
     bgImage: /assets/background/world-map.svg
     bgImageStyle:
       background-repeat: no-repeat
       background-size: 100% auto 
     features:
-      - title: Pageviews and Comments
-        icon: comment-dots
-        details: Start pageview statistics and comment support with Waline
-        link: https://theme-hope.vuejs.press/guide/feature/comment.html
+      - title: 源码学习记录
+        icon: noto-v1:gem-stone
+        details: 开源代码学习、练习记录
+        link: /feature/code.md
 
-      - title: Article Information
-        icon: circle-info
-        details: Add author, writing date, reading time, word count and other information to your article
-        link: https://theme-hope.vuejs.press/guide/feature/page-info.html
-
-      - title: Article Encryption
-        icon: lock
-        details: Encrypt you articles based on page links, so that only the one you want could see them
-        link: https://theme-hope.vuejs.press/guide/feature/encrypt.html
-
-      - title: Search
-        icon: search
-        details: Support docsearch and client search
-        link: https://theme-hope.vuejs.press/guide/feature/search.html
-
-      - title: Copy Code Blocks
-        icon: copy
-        details: Copy codes with one click in code blocks
-        link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
-
-      - title: Image Preview
-        icon: image
-        details: Support viewing, zooming, sharing your page images like a gallery
-        link: https://theme-hope.vuejs.press/guide/feature/photo-swipe.html
+      - title: 数学
+        icon: noto-v1:police-car
+        details: 数学思维训练
+        link: /github/web.md
+      
+      - title: 读书笔记
+        icon: noto-v1:books
+        details: 线上实用工具汇总
+        link: /github/web.md
+      
+      - title: 实验田
+        icon: noto-v1:delivery-truck
+        details: 线上实用工具汇总
+        link: /github/web.md
+      
+      - title: 保留
+        icon: noto-v1:dolphin
+        details: 线上实用工具汇总
+        link: /github/web.md
+      
+      - title: 在建
+        icon: noto-v1:flag-for-flag-china
+        details: 线上实用工具汇总
+        link: /github/web.md
 
 copyright: false
 footer: Copyright © 2023 <a href='https://fengyfei.github.io'>fengyfei</a>
