@@ -27,32 +27,32 @@ highlights:
       - title: 通用工具
         icon: noto-v1:building-construction
         details: API 工具、数据库工具、效率工具等
-        link: /github/genera.md
+        link: https://www.yuque.com/fengyfei/aovi1s/lvvrt5izhfd540c9
 
       - title: Go 优秀类库
         icon: devicon:go
         details: Go 常用工具及优秀开源项目
-        link: /github/go.md
+        link: https://www.yuque.com/fengyfei/aovi1s/socrilxc6t4w3cmq
       
       - title: C++ 优秀项目
         icon: openmoji:cplusplus
         details: C++ 常用工具及优秀开源项目
-        link: /github/cplusplus.md
+        link: https://www.yuque.com/fengyfei/aovi1s/edhnaba2ha1oklnu
       
       - title: Python 优秀项目
         icon: logos:python
         details: Python 常用工具及优秀开源项目
-        link: /github/python.md
+        link: https://www.yuque.com/fengyfei/aovi1s/au02sg6bg7oklin6
       
       - title: JS/TS 优秀项目
         icon: openmoji:javascript
         details: Javascript/Typescript 常用工具及优秀开源项目
-        link: /github/js.md
+        link: https://www.yuque.com/fengyfei/aovi1s/lyglx8esf87vky3h
       
       - title: 在线工具
         icon: noto-v1:crocodile
         details: 线上实用工具汇总
-        link: /github/web.md
+        link: https://www.yuque.com/fengyfei/aovi1s/fl76l4hgvc37tali
 
   - header: 功能分区
     bgImage: /assets/background/world-map.svg
