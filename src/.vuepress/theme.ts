@@ -20,6 +20,8 @@ export default hopeTheme({
 
   docsDir: "src",
 
+  editLink: false,
+
   // navbar
   navbar,
 
