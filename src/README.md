@@ -32,7 +32,7 @@ highlights:
       - title: Go 优秀类库
         icon: devicon:go
         details: Go 常用工具及优秀开源项目
-        link: https://www.yuque.com/fengyfei/aovi1s/socrilxc6t4w3cmq
+        link: https://www.yuque.com/fengyfei/aovi1s/mrd6l69b39v1d4ak
       
       - title: C++ 优秀项目
         icon: openmoji:cplusplus
